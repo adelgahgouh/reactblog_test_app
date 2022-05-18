@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "title": "flutter 2",
+      "body": "lorem ......sdsdsdsdsdsds",
+      "author": "djaber",
+      "id": 2
+    },
+    {
+      "title": "flutter .3",
+      "body": "lorem ......sdsdsdsdsdsds",
+      "author": "larbi",
+      "id": 3
+    },
+    {
+      "title": "lololo",
+      "body": "aaaaaaaaaaaaaaaaa lorem,sd,sldsdlsdslmdmsldksldslmdms",
+      "author": "luigi",
+      "id": 4
+    },
+    {
+      "title": "flutter 5",
+      "body": "One of the many fascinating things about using flutter is that everything is a widget in Flutter. So in today’s tutorial, we will be leveraging this to create a beautiful Whatsapp UI Clone application.",
+      "author": "luigi",
+      "id": 5
+    },
+    {
+      "title": "​​Build a Whatsapp UI Clone Application with Flutter",
+      "body": "One of the many fascinating things about using flutter is that everything is a widget in Flutter. So in today’s tutorial, we will be leveraging this to create a beautiful Whatsapp UI Clone application.",
+      "author": "luigi",
+      "id": 6
+    },
+    {
+      "title": "Beginners guide to MVC architectural pattern & the implementation with ExpressJS",
+      "body": "\nThe term software architecture is considered as the blueprint of building the software. It represents the structure of software like how the collection of the components will be in it and how the business logic and application logic will be communicated. You can imagine a building, At first, the engineers will make a prototype or architectural design of a building into a piece of paper, and later on, other staff will make the building physically by following that prototype\n\n. The same things are applicable for web application development. There are many different architectural patterns such as client-server, peer-to-peer, master-slave, MVC, pipe-filter, blackboard, layered architecture, and so on. Each of them has been served for different purposes. In this tutorial, we will explore a very popular architectural pattern named the MVC architectural pattern.\n\nIt is also known as the MVC framework and we also explore the implementation of this pattern by creating a project with the ExpressJS. After completing this tutorial, you will be able to create your own project by following the MVC framework",
+      "author": "luigi",
+      "id": 7
+    },
+    {
+      "title": "Set up in minutes",
+      "body": "We’ll host your page and process the donations—no technical skills required",
+      "author": "mario",
+      "id": 8
+    },
+    {
+      "title": "Customize your experience",
+      "body": "Easily add a logo and imagery to your donation page to showcase your brand.",
+      "author": "mario",
+      "id": 9
+    }
+  ]
+}

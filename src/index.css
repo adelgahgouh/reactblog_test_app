@@ -1,0 +1,116 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.Navbar{ 
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #f2f2f2;
+  margin: 0 auto;
+  max-width: 600px;
+}
+.Navbar h1{
+  color: coral;
+}
+.Navbar .links{
+  margin-left: auto;
+
+}
+.Navbar a{
+  margin-left: 16px;
+  padding: 6px;
+  text-decoration: none;
+  color: #b6b6b6;
+}
+.Navbar a:hover{
+color: coral;
+}
+.content{
+  max-width: 600px;
+  padding: 20px;
+  margin: 20px auto;
+}
+.blog-preview{
+  padding: 10px 16px ;
+  margin: 20px 0; 
+  border-bottom: 1px solid #f2f2f2;
+
+}
+.blog-preview:hover{
+  box-shadow: 1px 3px 5px #b4b4b4;
+}
+.blog-preview h2{
+  color: coral;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+.blog-preview span{
+  color: #b4b4b4;
+}
+
+.blog-preview a{
+
+  text-decoration: none;
+}
+.blog-details h2{
+  font-size: 20px;
+  color: coral;
+  margin-bottom: 10px;
+
+}
+.blog-details div{
+  margin: 20px 0;
+
+}
+.blog-details button{
+  color: #fff;
+background: coral;
+border: 0;
+padding: 8px;
+border-radius: 8px;
+cursor: pointer;
+}
+.create{
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create input,.create textarea,.create select{
+  width: 100%;
+  color: #b6b6b6;
+
+  padding: 6px 10px;
+  margin:10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.create button{
+  color: #eee;
+background: coral;
+border: 0;
+padding: 8px;
+border-radius: 8px;
+cursor: pointer;
+}
+.create h2{
+color: coral;
+margin-bottom: 30px;
+font-size: 20px;
+}
+.create label{
+  color: #b7b7b7;
+  display: block;
+  text-align: left;
+
+}
